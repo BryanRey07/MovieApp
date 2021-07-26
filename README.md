@@ -1,3 +1,3 @@
 # Peliculas
 
-Este es el repositorio del proyecto de películas 
+Este es el repositorio del proyecto de películas.
